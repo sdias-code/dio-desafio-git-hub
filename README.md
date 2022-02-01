@@ -3,7 +3,6 @@
 ## Introdução ao Git e Github
 
 ### Projeto: Criando aplicações web com Spring Web MVC
-Projeto: Digital Innovation one de Spring Boot Web MVC
 https://github.com/sdias-code/CursoDio-spring-web-mvc
 
 ### Projeto: CRUD em java
